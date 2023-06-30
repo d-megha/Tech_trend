@@ -11,3 +11,5 @@
 * If you need the data without any missing values, you can check out https://www.kaggle.com/datasets/meghaha/tech-trend.
 
 * After filling out all the missing data, the visualizations are carried out. 
+
+* I have also carried out the basic level visualisations in the Microsoft Power BI software.
