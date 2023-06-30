@@ -2,6 +2,7 @@
 * Visualisations are created integrating data from a Google Form that includes choices from individuals all across the world.
 
 * The data is collected the google form where the form had 20 questions based on the current on trend technologies.
+* Refer the pdf for the questions and their provided options.
 
 * The collected data is further summed up in the excel sheet.
 
